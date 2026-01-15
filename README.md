@@ -1,3 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=LanQinHui&show_icons=true&theme=radical">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LanQinHui&theme=radical)](https://git.io/streak-stats)
 
 ### Hi there I'm LanQinHui. 👋
